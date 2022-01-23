@@ -1,6 +1,0 @@
-Filename	Patient ID	Patient Name	Study Date	Study Time	Data Type	Frames
-E:\TeamSystem\DicomFileReader\DicomFileReader\SampleDicomImages\12209.dcm	39419238	Doe^John	2001-01-01	00-01-15	Image	1
-E:\TeamSystem\DicomFileReader\DicomFileReader\SampleDicomImages\12539.dcm	39419238	Doe^John	2001-01-01	00-01-15	Image	1
-E:\TeamSystem\DicomFileReader\DicomFileReader\SampleDicomImages\2.dcm	pid-anon	Anonymized	1999.05.05	10:52:32.510000 	Image	1
-E:\TeamSystem\DicomFileReader\DicomFileReader\SampleDicomImages\9143.dcm	39419238	Doe^John	2001-01-01	00-01-15	Image	1
-E:\TeamSystem\DicomFileReader\DicomFileReader\SampleDicomImages\9475.dcm	39419238	Doe^John	2001-01-01	00-01-15	Image	1
