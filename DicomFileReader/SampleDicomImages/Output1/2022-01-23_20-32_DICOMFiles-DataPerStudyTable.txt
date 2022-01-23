@@ -1,0 +1,3 @@
+Full Path	Study	Images	Videos
+E:\TeamSystem\DicomFileReader\DicomFileReader\SampleDicomImages	39419238\2001-01-01_39419238_Doe^John	4	0
+E:\TeamSystem\DicomFileReader\DicomFileReader\SampleDicomImages	pid-anon\1999.05.05_pid-anon_Anonymized	1	0
