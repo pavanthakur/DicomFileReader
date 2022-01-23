@@ -177,7 +177,7 @@ namespace DicomFileReader
 				using (StreamWriter metadataFile = new StreamWriter(Path.Combine(OutputFolderFullName, "metadata.txt"), true))
 				{
 					metadataFile.WriteLine("Metadata extracted from " + DICOMFile + "\nTag\tValue");
-					foreach (DICOMReader.Tag tag in dcf.Tags) { metadataFile.WriteLine(tag.Name + "\t" + tag.Value); } //TODO something fucky here.
+					foreach (DICOMReader.Tag tag in dcf.Tags) { metadataFile.WriteLine(tag.Name + "\t" + tag.Value); } 
 					metadataFile.WriteLine("\n");
 					extractCount++;
 				}
